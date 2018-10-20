@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    color: black;
+}
+h1,h2,h3{
+    color: blue;
+}
+
+h1{
+    color: red;
+    border-bottom: 1px solid black;
+}
